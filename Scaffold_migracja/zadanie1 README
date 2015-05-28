@@ -1,5 +1,0 @@
-1a. Generowanie scaffoldu 
-rails g scaffold ticket name:string sead_id_seq:string address:text price_paid:decimal email_address:string
-
-1b. Przykładowa migracja
-rails g migration AddPhoneToTickets phone:string
